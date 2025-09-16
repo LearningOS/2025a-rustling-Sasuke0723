@@ -1,5 +1,5 @@
 // primitive_types4.rs
-//
+// test for add
 // Get a slice out of Array a where the ??? is so that the test passes.
 //
 // Execute `rustlings hint primitive_types4` or use the `hint` watch subcommand
